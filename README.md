@@ -17,3 +17,6 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Tutorial
+https://www.youtube.com/watch?v=CjXgoYo86yY Vuetify: Create an App with Vue JS - in 30 MINUTES!
